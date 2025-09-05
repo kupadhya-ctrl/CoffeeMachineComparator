@@ -35,6 +35,13 @@ Machines Sheet
 - Machine Type – Type of machine
 - Machine Type ID – Corresponding type ID
 
+Machine Types and Products
+[Machine Types](images/CoffeeMachinesProduct.png)
+
+Selected Items Description
+[Selected Items](images/ComparisionScreen.png)
+
+
 Technology
 - Microsoft Power Apps (Canvas App)
 - Excel for datasets
